@@ -1,0 +1,18 @@
+TimeID;Time_Name;Estado;Regiao;Titulos
+PAL;Palmeiras;SP;Sudeste;10
+SAN;Santos;SP;Sudeste;8
+COR;Corinthians;SP;Sudeste;7
+FLA;Flamengo;RJ;Sudeste;7
+SPO;Sao Paulo;SP;Sudeste;6
+CRU;Cruzeiro;MG;Sudeste;4
+VDG;Vasco da Gama;RJ;Sudeste;4
+FLU;Fluminense;RJ;Sudeste;4
+INT;Internacional;RS;Sul;3
+CAM;Atletico Mineiro;MG;Sudeste;2
+GRE;Gremio;RS;Sul;2
+BOT;Botafogo;RJ;Sudeste;2
+BAH;Bahia;BA;Nordeste;2
+GUA;Guarani;SP;Sudeste;1
+CAP;Athletico Paranaense;PR;Sul;1
+CFC;Coritiba;PR;Sul;1
+SPT;Sport;PE;Nordeste;1
